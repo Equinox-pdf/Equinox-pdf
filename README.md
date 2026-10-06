@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects and growing your company
 - 📫 How to reach me: email: veranique.poquette@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I first started the basics of coding in "Scratch" since elementary school! 
+- ⚡ Fun fact: I first started the basics of coding in "Scratch" during elementary school! 
 
 <!---
 Equinox-pdf/Equinox-pdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
