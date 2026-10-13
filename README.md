@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software Development and Engineering
 - 🌱 I’m currently pursuing a bachelor's degree in Computer Science
 - 💞️ I’m looking to collaborate on projects and growing your company
-- 📫 How to reach me: email: veranique.poquette@gmail.com
-- 😄 Pronouns: she/her
+- 📫 How to reach me: email: vkpoquette@gmail.com
 - ⚡ Fun fact: I first started the basics of coding in "Scratch" during elementary school! 
 
 <!---
