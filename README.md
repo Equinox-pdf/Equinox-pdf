@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Veranique Poquette
-- 👀 I’m interested in Software Development and Engineering
+- 👀 I’m interested in Software Development and Automation Roles
 - 🌱 I’m currently pursuing a bachelor's degree in Computer Science
 - 💞️ I’m looking to collaborate on projects and growing your company
 - 📫 How to reach me: email: vkpoquette@gmail.com
